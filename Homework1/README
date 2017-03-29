@@ -1,0 +1,15 @@
+所有的function 和 script 都放在 Function and Script中
+
+    1. DCT image compreesion :
+        (A)  DCT_image_compression.m 為第一題之(a)可執行script，可得到第一題之(a)所有結果
+        涉及DCT, iDCT, computePSNR 等function
+        (B) DCT_with_YIQ.m 為第一題之(b)可執行之script，可得到第一題之(b)所有結果
+        涉及DCT, iDCT, YIQ, iYIQ, computePSNR 等function
+    2. Image FIltering : 
+        Image_Filtering.m 為第二題之可執行script，可以得到第二題之(a),(b)的所有結果
+        涉及 Gaussian_fiter, Median_filter 等function
+    3. Interpolation : 
+        Interpolation.m 為第三題之可執行script，可以得到第三題之(a),(b)的所有結果
+        涉及 Nearest_Neighbor, Bilinear 等function
+
+    4. 所有結果都存在 Result的目錄底下
